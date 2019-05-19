@@ -10,7 +10,7 @@ public class ForEachLoop{
 
 		String[] name = {"Ram","Shyam"};
 		for(String x:name){
-			System.out.println(x);
+			System.out.println();
 		}
 	}
 	}

@@ -20,7 +20,7 @@ if(age<25){
 	}
 	else{
 	salary-= salary*0.1;
-	System.out.println("Salary: "+salary);
+	System.out.println("Salary: "+salary);	
 	}
 	}
 else{
