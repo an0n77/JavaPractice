@@ -20,7 +20,6 @@ public class ArrayNumberSort{
 			}
 		}
 	}
-
 	System.out.println("");
 	for(Integer x:a){
 		System.out.println(x);
